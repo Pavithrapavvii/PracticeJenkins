@@ -39,7 +39,6 @@ public class ActitimeUrl {
 		}
 		driver.close();
 	}
-	//thank you
-	//hiii
+	//byeeeeee
 
 }
