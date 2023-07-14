@@ -16,10 +16,6 @@ public class PracticeOne {
    		System.out.println(s1);
    		System.out.println(s2); 
        }
-       //hiiiiii
-	
-		
-
-		//completed
+       //edited success
 
 }
